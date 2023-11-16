@@ -1,2 +1,2 @@
-# linux-arbeitplatz-server
+# linux-arbeitsplatz-server
 Server for Linux-Arbeitsplatz
